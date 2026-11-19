@@ -1,0 +1,4 @@
+Nombre: Jose - Edad: 24
+Nombre: Antonio - Edad: 26
+Nombre: Isma - Edad: 25
+Nombre: Maria - Edad: 31
